@@ -17,25 +17,27 @@ Deployment-Ready:
 ## Screenshots
 <img width="1429" height="746" alt="image" src="https://github.com/user-attachments/assets/62b31f45-4d3c-41ba-9feb-5f6278243833" />
 
-for positive tweent:
+for a positive tweet:
 <img width="1197" height="659" alt="image" src="https://github.com/user-attachments/assets/e64187d2-8bcf-447c-b934-7579e901c21f" />
 
 for a negative tweet
 <img width="1276" height="634" alt="image" src="https://github.com/user-attachments/assets/6bd2ad64-f8c3-4dc7-9af9-43f0434666d4" />
 
 
-## Installation
+# Installation
 
-# Clone the repo
-$ git clone https://github.com/StephennHub/sentiment_analysis.git
+## Clone the repo
 
-# Change to project directory
+> $ git clone https://github.com/StephennHub/sentiment_analysis.git
 
-$ cd sentiment_analysis
+## Change to project directory
+
+> $ cd sentiment_analysis
 
 > pip install -r requirements.txt
 
-# Usage
+## Usage
+
 For data cleaning and model training
 
 > python <scriptname.py>
@@ -45,7 +47,8 @@ For preprocessing code use
 > streamlit run .\preprocessing.py
 
 ## Let's Work Together
+
 Although this is a personal project, I'm always willing to learn, exchange ideas, and work with people who share my enthusiasm for NLP and machine learning.
 Do not hesitate to get in touch if you would like to collaborate, test this model, or simply connect!
 
-Please contact email in my bio.
+~ Please contact email in my bio. ~
