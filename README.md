@@ -15,13 +15,13 @@ Deployment-Ready:
 
 
 ## Screenshots
-<img width="1429" height="746" alt="image" src="https://github.com/user-attachments/assets/62b31f45-4d3c-41ba-9feb-5f6278243833" />
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/62b31f45-4d3c-41ba-9feb-5f6278243833" />
 
 for a positive tweet:
-<img width="1197" height="659" alt="image" src="https://github.com/user-attachments/assets/e64187d2-8bcf-447c-b934-7579e901c21f" />
+<img width="1000" height="700" alt="positive tweet" src="https://github.com/user-attachments/assets/e64187d2-8bcf-447c-b934-7579e901c21f" />
 
 for a negative tweet
-<img width="1276" height="634" alt="image" src="https://github.com/user-attachments/assets/6bd2ad64-f8c3-4dc7-9af9-43f0434666d4" />
+<img width="1000" height="700" alt="negative tweet" src="https://github.com/user-attachments/assets/6bd2ad64-f8c3-4dc7-9af9-43f0434666d4" />
 
 
 # Installation
