@@ -25,20 +25,24 @@ for a negative tweet
 
 
 ## Installation
+
 # Clone the repo
-git clone https://github.com/StephennHub/sentiment_analysis.git
+$ git clone https://github.com/StephennHub/sentiment_analysis.git
 
 # Change to project directory
-cd sentiment_analysi
 
-pip install -r requirements.txt
+$ cd sentiment_analysis
 
-#Usage
-For data cleaning and model training,  
-python <scriptname.py>
+> pip install -r requirements.txt
 
-For preprocessing code use,
-streamlit run .\preprocessing.py
+# Usage
+For data cleaning and model training
+
+> python <scriptname.py>
+
+For preprocessing code use
+
+> streamlit run .\preprocessing.py
 
 ## Let's Work Together
 Although this is a personal project, I'm always willing to learn, exchange ideas, and work with people who share my enthusiasm for NLP and machine learning.
