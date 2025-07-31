@@ -1,4 +1,4 @@
-# sentiment_analysis
+# Sentiment Analysis
 
 ## About
   This project is a machine learning-based sentiment analysis model developed using a Logistic Regression algorithm. It was trained on a dataset of <a href= https://www.kaggle.com/datasets/kazanova/sentiment140>1.6 million tweets </a> to accurately classify sentiments (positive or negative). The preprocessing and text analysis were performed using the NLTK library, and features were extracted using TF-IDF vectorization to convert textual data into meaningful numerical representations.
